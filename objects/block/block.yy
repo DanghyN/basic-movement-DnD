@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite2",
-    "path": "sprites/Sprite2/Sprite2.yy",
+    "name": "wall",
+    "path": "sprites/wall/wall.yy",
   },
   "solid": true,
   "visible": true,
@@ -24,11 +24,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Basic Movement DnD",
-    "path": "Basic Movement DnD.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Object2",
+  "name": "block",
   "tags": [],
   "resourceType": "GMObject",
 }
